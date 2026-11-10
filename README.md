@@ -144,5 +144,6 @@
 
 ## Демонстрация
 
-[![asciicast](https://asciinema.org/a/nbTuaCYCYFlIbfXE.svg)](https://asciinema.org/a/nbTuaCYCYFlIbfXE)
+[Смотреть запись работы в asciinema](https://asciinema.org/a/nbTuaCYCYFlIbfXE)
 
+[![asciicast](https://asciinema.org/a/nbTuaCYCYFlIbfXE.svg)](https://asciinema.org/a/nbTuaCYCYFlIbfXE)
