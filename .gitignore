@@ -1,0 +1,8 @@
+.venv
+dist/
+__pycache__/
+*.egg-info
+data/
+db_meta.json
+.rff_cache/
+demo.cast
