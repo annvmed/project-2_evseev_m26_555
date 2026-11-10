@@ -1,0 +1,7 @@
+"""Константы для проекта"""
+
+META_FILE = "db_meta.json"
+DATA_DIR = "data"
+VALID_TYPES = ("int", "str", "bool")
+ID_COLUMN = "ID"
+ID_TYPE = "int"
